@@ -9,5 +9,5 @@ def insertion_sort(arr):
         arr[i + 1] = key
     return arr
 
-arr = [5,3,1,4,2]
+arr = [5,3,1,4,6]
 print(insertion_sort(arr))
